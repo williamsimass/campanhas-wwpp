@@ -1,0 +1,38 @@
+{
+  "name": "mwebchat",
+  "parameter_format": "POSITIONAL",
+  "components": [
+    {
+      "type": "HEADER",
+      "format": "IMAGE",
+      "example": {
+        "header_handle": [
+          "https://scontent.whatsapp.net/v/t61.29466-34/534424504_1173229597623769_6684055798519876210_n.jpg?ccb=1-7&_nc_sid=8b1bef&_nc_eui2=AeGRQ7mza7W334uueUX-nBP43kpajtO2VYjeSlqO07ZViEYtX39dmKLRkiUgtueMGzPtrjbYxFnjGWkD24mimBTH&_nc_ohc=hZ7CWKrYxBUQ7kNvwFbM2j6&_nc_oc=AdnI_q09cZkEYjok6Zu7Qk7_zC0zCoNe786-1U50IoKh2tEaQ7H4o270z5B6MgAIl2A&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=fAckIneTS0raXd9aNezOxw&_nc_tpa=Q5bMBQFSZAuzAyUth0yTTiFDuRiA2_CjhwzGiT9F5s-54LMzN7UZvPuZueGnGyx5bwjuiKqybqopPHz3jg&oh=01_Q5Aa3AG0euXjU3PAb1_67GSCVefKClh71RaamNJ6qEgpGmY5gg&oe=694D2170"
+        ]
+      }
+    },
+    {
+      "type": "BODY",
+      "text": "Olá, Você já está sabendo do novo lançamento? \nO Mwebchat chegou trazendo tecnologia e praticidade para o seu negócio. \nCom o MwebChat, você transforma o WhatsApp da sua empresa em uma verdadeira central de atendimento profissional.\n✅ Vários atendentes em um único número\n✅ Departamentos, filas e histórico de conversas\n✅ Chatbot inteligente e mensagens automáticas\n✅ Painel completo para acompanhar tudo em tempo real\nTudo isso e muito mais, para se apronfundar acesse o site https://mwebchat.com.br/ , ou entre em contato conosco pelo número 11921582919"
+    },
+    {
+      "type": "FOOTER",
+      "text": "Mwebchat"
+    },
+    {
+      "type": "BUTTONS",
+      "buttons": [
+        {
+          "type": "URL",
+          "text": "Visite o site aqui !",
+          "url": "https://mwebchat.com.br/"
+        }
+      ]
+    }
+  ],
+  "language": "pt_BR",
+  "status": "APPROVED",
+  "category": "MARKETING",
+  "sub_category": "CUSTOM",
+  "id": "1173229594290436"
+}
